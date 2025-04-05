@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="EXILED" Version="8.9.11" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Content Include="bin\Debug\net8.0\Template_SCP_SL.deps.json" />
+      <Content Include="bin\Debug\net8.0\Template_SCP_SL.dll" />
+      <Content Include="bin\Debug\net8.0\Template_SCP_SL.pdb" />
+    </ItemGroup>
+
+</Project>

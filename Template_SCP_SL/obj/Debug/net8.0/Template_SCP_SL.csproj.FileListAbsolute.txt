@@ -1,0 +1,12 @@
+C:\Users\ciste\RiderProjects\Template_SCP_SL\Template_SCP_SL\bin\Debug\net8.0\Template_SCP_SL.deps.json
+C:\Users\ciste\RiderProjects\Template_SCP_SL\Template_SCP_SL\bin\Debug\net8.0\Template_SCP_SL.dll
+C:\Users\ciste\RiderProjects\Template_SCP_SL\Template_SCP_SL\bin\Debug\net8.0\Template_SCP_SL.pdb
+C:\Users\ciste\RiderProjects\Template_SCP_SL\Template_SCP_SL\obj\Debug\net8.0\Template_SCP_SL.csproj.AssemblyReference.cache
+C:\Users\ciste\RiderProjects\Template_SCP_SL\Template_SCP_SL\obj\Debug\net8.0\Template_SCP_SL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ciste\RiderProjects\Template_SCP_SL\Template_SCP_SL\obj\Debug\net8.0\Template_SCP_SL.AssemblyInfoInputs.cache
+C:\Users\ciste\RiderProjects\Template_SCP_SL\Template_SCP_SL\obj\Debug\net8.0\Template_SCP_SL.AssemblyInfo.cs
+C:\Users\ciste\RiderProjects\Template_SCP_SL\Template_SCP_SL\obj\Debug\net8.0\Template_SCP_SL.csproj.CoreCompileInputs.cache
+C:\Users\ciste\RiderProjects\Template_SCP_SL\Template_SCP_SL\obj\Debug\net8.0\Template_SCP_SL.dll
+C:\Users\ciste\RiderProjects\Template_SCP_SL\Template_SCP_SL\obj\Debug\net8.0\refint\Template_SCP_SL.dll
+C:\Users\ciste\RiderProjects\Template_SCP_SL\Template_SCP_SL\obj\Debug\net8.0\Template_SCP_SL.pdb
+C:\Users\ciste\RiderProjects\Template_SCP_SL\Template_SCP_SL\obj\Debug\net8.0\ref\Template_SCP_SL.dll
