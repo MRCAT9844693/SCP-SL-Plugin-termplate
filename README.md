@@ -2,7 +2,7 @@
 
 This is a simple template plugin for SCP SL.
 
-<img src="Images/README_image.svg">
+<img src="Template_SCP_SL/Images/README_image.svg">
 
 requirements:
 -
